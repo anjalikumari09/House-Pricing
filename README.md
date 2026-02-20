@@ -1,4 +1,4 @@
-**=======House Pricing=======**
+**=======House Price Prediction=======**
 
 A machine learning project to predict house prices based on features such as location, area, and number of rooms. The project demonstrates data preprocessing, exploratory data analysis, model training, and evaluation using Python.
 
